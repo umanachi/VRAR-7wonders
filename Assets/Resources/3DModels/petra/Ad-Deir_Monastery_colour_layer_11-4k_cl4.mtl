@@ -1,0 +1,69 @@
+#
+# Wavefront material file
+# Created in RealityScan
+# Engine version v2.0.1.118647
+#
+
+newmtl Ad-Deir_Monastery_colour_layer_11-4k_cl4_u1_v1
+Ka 1 1 1
+Kd 1 1 1
+d 1
+Ns 0
+illum 1
+map_Kd Ad-Deir_Monastery_colour_layer_11-4k_cl4_u1_v1_diffuse.jpg
+
+newmtl Ad-Deir_Monastery_colour_layer_11-4k_cl4_u2_v1
+Ka 1 1 1
+Kd 1 1 1
+d 1
+Ns 0
+illum 1
+map_Kd Ad-Deir_Monastery_colour_layer_11-4k_cl4_u2_v1_diffuse.jpg
+
+newmtl Ad-Deir_Monastery_colour_layer_11-4k_cl4_u3_v1
+Ka 1 1 1
+Kd 1 1 1
+d 1
+Ns 0
+illum 1
+map_Kd Ad-Deir_Monastery_colour_layer_11-4k_cl4_u3_v1_diffuse.jpg
+
+newmtl Ad-Deir_Monastery_colour_layer_11-4k_cl4_u1_v2
+Ka 1 1 1
+Kd 1 1 1
+d 1
+Ns 0
+illum 1
+map_Kd Ad-Deir_Monastery_colour_layer_11-4k_cl4_u1_v2_diffuse.jpg
+
+newmtl Ad-Deir_Monastery_colour_layer_11-4k_cl4_u2_v2
+Ka 1 1 1
+Kd 1 1 1
+d 1
+Ns 0
+illum 1
+map_Kd Ad-Deir_Monastery_colour_layer_11-4k_cl4_u2_v2_diffuse.jpg
+
+newmtl Ad-Deir_Monastery_colour_layer_11-4k_cl4_u3_v2
+Ka 1 1 1
+Kd 1 1 1
+d 1
+Ns 0
+illum 1
+map_Kd Ad-Deir_Monastery_colour_layer_11-4k_cl4_u3_v2_diffuse.jpg
+
+newmtl Ad-Deir_Monastery_colour_layer_11-4k_cl4_u1_v3
+Ka 1 1 1
+Kd 1 1 1
+d 1
+Ns 0
+illum 1
+map_Kd Ad-Deir_Monastery_colour_layer_11-4k_cl4_u1_v3_diffuse.jpg
+
+newmtl Ad-Deir_Monastery_colour_layer_11-4k_cl4_u2_v3
+Ka 1 1 1
+Kd 1 1 1
+d 1
+Ns 0
+illum 1
+map_Kd Ad-Deir_Monastery_colour_layer_11-4k_cl4_u2_v3_diffuse.jpg

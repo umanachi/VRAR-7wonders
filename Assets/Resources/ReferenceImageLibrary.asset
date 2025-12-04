@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5543481680264786897
+  m_GuidHigh: 2612874405850786227
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5681712259891561769
+      m_GuidHigh: 16139614593023063740
+    m_SerializedTextureGuid:
+      m_GuidLow: 4811072514633713980
+      m_GuidHigh: 2277675051306192281
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: tajmahal
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4811082209049312876
+      m_GuidHigh: 14556940993651080348
+    m_SerializedTextureGuid:
+      m_GuidLow: 15921406782430850010
+      m_GuidHigh: 2692615776704010936
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: petra
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5433297270539218956
+      m_GuidHigh: 466143702052692140
+    m_SerializedTextureGuid:
+      m_GuidLow: 3793205328034546976
+      m_GuidHigh: 18443470046343428776
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: machupicchu
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5297296510799552648
+      m_GuidHigh: 5198157434368275093
+    m_SerializedTextureGuid:
+      m_GuidLow: 7179945661875170284
+      m_GuidHigh: 6185274936820931705
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: greatwall
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5142273243409037916
+      m_GuidHigh: 17962919660355077775
+    m_SerializedTextureGuid:
+      m_GuidLow: 10566628527065581726
+      m_GuidHigh: 5068884808920543944
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: colosseum
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4674492338138958984
+      m_GuidHigh: 974274371727007146
+    m_SerializedTextureGuid:
+      m_GuidLow: 8423128333119704546
+      m_GuidHigh: 1679193242242694427
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: christredeemer
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4658374642736129716
+      m_GuidHigh: 2048648118444966031
+    m_SerializedTextureGuid:
+      m_GuidLow: 392940288977058749
+      m_GuidHigh: 10048013836063725032
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: chichenitza
+    m_Texture: {fileID: 0}
